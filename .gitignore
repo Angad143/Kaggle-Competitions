@@ -8,6 +8,8 @@ __pycache__/
 
 
 submission.csv
+submission_test.csv
+submission2.csv
 
 # Distribution / packaging
 .Python
