@@ -1,3 +1,19 @@
+# **Tools and Libraries Used in Our Project**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/XGBoost-3C6B3F?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/LightGBM-9C4C32?style=flat&logo=lightgbm&logoColor=white" alt="LightGBM" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Scipy-003E6C?style=flat&logo=scipy&logoColor=white" alt="SciPy" style="flex: 1 1 30%;">
+</div>
+
+
+
 # House Price Prediction: Advanced Regression Techniques
 
 This project focuses on predicting house prices using advanced regression techniques and a stacked model approach. The dataset used comes from Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition, and the objective is to predict the final prices of homes based on a variety of features such as area, location, and overall quality.
